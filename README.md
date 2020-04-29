@@ -1,3 +1,5 @@
+# VueJS Project
+
 # Vusumzi Mtwayi - IMMEDIA ASSESSMENT
 
 ## Project setup
