@@ -2,6 +2,11 @@
 
 # Vusumzi Mtwayi - IMMEDIA ASSESSMENT
 
+## Clone Project 
+```
+git clone https://github.com/Mtwayi/immedia.git
+```
+
 ## Project setup
 ```
 npm install
