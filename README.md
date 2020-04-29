@@ -5,6 +5,7 @@
 ## Clone Project 
 ```
 git clone https://github.com/Mtwayi/immedia.git
+cd immedia
 ```
 
 ## Project setup
